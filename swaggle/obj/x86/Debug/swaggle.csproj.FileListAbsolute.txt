@@ -1,0 +1,9 @@
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\bin\Debug\swaggle.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\bin\Debug\swaggle.pdb
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\swaggle.Form1.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\swaggle.Properties.Resources.resources
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\swaggle.exe
+c:\users\pheintz\documents\visual studio 2010\Projects\swaggle\swaggle\obj\x86\Debug\swaggle.pdb
